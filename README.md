@@ -70,7 +70,15 @@ Espacio para imagen del NFA construido a mano:
 
 ## Conversion NFA -> DFA
 
-Posteriormente se aplico el algoritmo de subconjuntos para convertir el NFA en un DFA.
+Posteriormente se aplico el algoritmo de subconjuntos para convertir el NFA en un DFA, obteniendo la tablade cambio de estados 
+
+| Estado    | a         | b         | 
+|-----------|-----------|-----------|
+|    A      |    B      |   C       |
+|    B      |    B      |   D       |
+|    C      |    B      |   C       |
+|    D      |    B      |   E       |
+|    E      |    B      |   C       |
 
 Este proceso consiste en:
 
