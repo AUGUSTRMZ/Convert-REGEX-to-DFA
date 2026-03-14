@@ -63,7 +63,7 @@ Primero se construyo el NFA usando las reglas del algoritmo de Thompson.
 
 Espacio para imagen del NFA construido a mano:
 
-![Automata Finito No Determinista](img/AFND.png)
+![Automata Finito No Determinista](AFND.png)
 
 ---
 
