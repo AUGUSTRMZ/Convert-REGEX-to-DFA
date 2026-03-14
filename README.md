@@ -1,6 +1,7 @@
 # Regex -> NFA -> DFA Converter
-
+### Cesar Augusto Ramirez Davila A01712439
 ## Descripcion del proyecto
+
 
 Este proyecto implementa un programa en Python que convierte una expresion regular en un automata finito deterministico (DFA). Para lograr esto se sigue el proceso visto en clase:
 
