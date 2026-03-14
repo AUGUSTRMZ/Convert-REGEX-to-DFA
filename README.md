@@ -77,9 +77,6 @@ Este proceso consiste en:
 - aplicar la funcion move
 - generar nuevos estados del DFA a partir de subconjuntos de estados del NFA
 
-Espacio para imagen del proceso de conversion:
-
-![Conversion](imagenes/conversion.png)
 
 ---
 
@@ -88,8 +85,6 @@ Espacio para imagen del proceso de conversion:
 Despues de aplicar el algoritmo se obtiene el DFA final equivalente.
 
 Espacio para imagen del DFA final:
-
-![DFA](imagenes/dfa.png)
 
 ---
 
