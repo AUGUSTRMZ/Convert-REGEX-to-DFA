@@ -93,7 +93,8 @@ Este proceso consiste en:
 
 Despues de aplicar el algoritmo se obtiene el DFA final equivalente.
 
-Espacio para imagen del DFA final:
+
+![Automata Finito Determinista](AFD.png)
 
 ---
 
